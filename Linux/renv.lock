@@ -4,7 +4,7 @@
     "Repositories": [
       {
         "Name": "CRAN",
-        "URL": "https://cran.ma.imperial.ac.uk"
+        "URL": "http://ftp.ussg.iu.edu/CRAN/"
       }
     ]
   },
@@ -111,24 +111,6 @@
         "Matrix",
         "MatrixGenerics",
         "S4Vectors"
-      ]
-    },
-    "ExomeDepth": {
-      "Package": "ExomeDepth",
-      "Version": "1.1.15",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "3be68f65adb647427f212b1b45b04305",
-      "Requirements": [
-        "Biostrings",
-        "GenomicAlignments",
-        "GenomicRanges",
-        "IRanges",
-        "Rsamtools",
-        "VGAM",
-        "aod",
-        "dplyr",
-        "magrittr"
       ]
     },
     "GenomeInfoDb": {
